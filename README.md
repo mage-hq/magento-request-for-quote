@@ -1,5 +1,5 @@
 # magento-request-for-quote
-The Request For Quote extension allows customers to request a quote for one, multiple products or an entire cart. Customers will add their favorite items to the quote with their desired product quantity and price. After viewing a quote request, the shop owner can modify the quote such as adjusting the price, adding coupons, approving
+Customers can request a quote for one, several products or the entire cart with the Magento 2 Request For Quote extension. Customers will add their favorite items to the quote with their desired product quantity and price. After reviewing a quote request, the shop owner can modify the quote such as adjusting the price, adding coupons, approving, canceling and talking with the customer.
 
 Please go to https://magehq.com/request-for-quote.html buy extension
 
